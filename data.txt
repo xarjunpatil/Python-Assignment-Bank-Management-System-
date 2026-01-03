@@ -1,0 +1,41 @@
+Account: 7218766504
+Name: Arjun Patil
+PIN: 9420
+Balance: 999999999
+Transactions:
+Deposited ₹200
+Withdrawn ₹1
+---END---
+
+Account: 9890691205
+Name: yash
+PIN: 0009
+Balance: 0
+Transactions:
+---END---
+
+Account: 0987654321
+Name: Sarthak Banerjee
+PIN: 1234
+Balance: 9000
+Transactions:
+Deposited ₹10000
+Withdrawn ₹1000
+---END---
+
+Account: 1234567890
+Name: nikhil kanse
+PIN: 1234
+Balance: 800
+Transactions:
+Deposited ₹1000
+Withdrawn ₹200
+---END---
+
+Account: 1234509876
+Name: Vinayak
+PIN: 0987
+Balance: 0
+Transactions:
+---END---
+
